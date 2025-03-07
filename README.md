@@ -17,3 +17,11 @@ This project automates resume screening and ranking based on job descriptions us
 - **Deployment:** Streamlit Cloud  
 
 ## 📂 Project Structure  
+📦 AI-Powered-Resume-Screening-and-Ranking-System  
+┣ 📜 app.py                   # Main application file (Streamlit frontend)  
+┣ 📜 preprocess.py             # Preprocessing functions (NLP & data cleaning)  
+┣ 📜 ranking.py                # Resume ranking logic using similarity matching  
+┣ 📜 resume_parser.py          # Resume parsing functions  
+┣ 📜 requirements.txt          # Dependencies for the project  
+┣ 📂 venv/                     # Virtual environment (DO NOT PUSH TO GITHUB)  
+┣ 📂 __pycache__/               # Python cache files (IGNORE)  
