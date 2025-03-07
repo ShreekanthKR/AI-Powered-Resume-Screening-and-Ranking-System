@@ -29,7 +29,7 @@ This project automates resume screening and ranking based on job descriptions us
 ## 📥 Installation  
 To run this project locally, follow these steps:  
 
-# 1️⃣ Clone this repository
+# 1 Clone this repository
 git clone https://github.com/yourusername/resume-screening.git
 
 # 2️⃣ Navigate to the project folder
