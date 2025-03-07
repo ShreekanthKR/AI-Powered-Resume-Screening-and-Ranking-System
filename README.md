@@ -23,5 +23,25 @@ This project automates resume screening and ranking based on job descriptions us
 ┣ 📜 ranking.py                # Resume ranking logic using similarity matching  
 ┣ 📜 resume_parser.py          # Resume parsing functions  
 ┣ 📜 requirements.txt          # Dependencies for the project  
-┣ 📂 venv/                     # Virtual environment (DO NOT PUSH TO GITHUB)  
-┣ 📂 __pycache__/               # Python cache files (IGNORE)  
+
+
+
+## 📥 Installation  
+To run this project locally, follow these steps:  
+
+1️⃣ Clone this repository:  
+```bash
+git clone https://github.com/yourusername/resume-screening.git
+
+
+cd resume-screening
+
+python -m venv venv  
+source venv/bin/activate  # On macOS/Linux  
+venv\Scripts\activate     # On Windows
+
+pip install -r requirements.txt
+
+streamlit run app.py  
+
+
