@@ -29,16 +29,16 @@ This project automates resume screening and ranking based on job descriptions us
 ## 📥 Installation  
 To run this project locally, follow these steps:  
 
-# 1 Clone this repository
+## 1️⃣ Clone this repository
 git clone https://github.com/yourusername/resume-screening.git
 
-# 2️⃣ Navigate to the project folder
+## 2️⃣ Navigate to the project folder
 cd resume-screening
 
-# 3️⃣  Install dependencies
+## 3️⃣  Install dependencies
 pip install -r requirements.txt
 
-# 4️⃣ Run the application
+## 4️⃣ Run the application
 streamlit run app.py
 
 
