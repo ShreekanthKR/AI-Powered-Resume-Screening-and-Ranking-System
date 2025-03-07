@@ -13,7 +13,7 @@ This project automates resume screening and ranking based on job descriptions us
 ## 🛠️ Tech Stack  
 - **Frontend:** Streamlit  
 - **Backend:** Python  
-- **NLP & Machine Learning:** Scikit-learn, NLTK, SpaCy  
+- **NLP & Machine Learning:** Scikit-learn, NLTK
   
 
 ## 📂 Project Structure  
