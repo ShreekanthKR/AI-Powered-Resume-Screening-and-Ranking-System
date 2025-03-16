@@ -2,6 +2,5 @@ streamlit
 pypdf2
 nltk
 scikit-learn
-spacy
 numpy
 pandas
