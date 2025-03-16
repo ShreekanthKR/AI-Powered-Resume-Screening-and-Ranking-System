@@ -5,7 +5,7 @@ This project automates resume screening and ranking based on job descriptions us
 
 ## 🚀 Features  
 - 📄 Parses resumes from PDFs  
-- 🧠 Extracts skills, experience, and qualifications using **NLTK, SpaCy, and Scikit-learn**  
+- 🧠 Extracts skills, experience, and qualifications using **NLTK, and Scikit-learn**  
 - 📊 Uses **TF-IDF and similarity matching** for ranking  
 - ✅ Provides a ranked list of resumes based on relevance to the job description  
 
